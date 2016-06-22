@@ -2,8 +2,8 @@
 KY-003 Hall magnetic switch
 */
  
-int SENSOR = 10 ; // define the Hall magnetic sensor interface
-int val ; // define numeric variables val
+int SENSOR = 10 ; 
+int val ; 
  
 void setup ()
 {
